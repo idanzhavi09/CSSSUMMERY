@@ -41,3 +41,18 @@ There are layers to every element on the screen and it goes as follows:
 ---
 
 ## Typography <a name="typography">
+
+* Preferrably , should never use absolute font size like "px" to let the user decide the font size , thus making the user expiriance better as was explained previously and should use "rem" most of the time
+
+* Text Decorations has many ways to decorate and improve a paragraph or any text.
+
+> text-decoration: underline;
+
+* This will add an underline to the text
+there are also "overline" , "line-through" etc...
+
+* Text transform is another way to change the appearance of a text but rather then adding things this changes the text itself.
+> text-transform:
+
+* This changes the text itself in many ways , for example:
+"capitalize" , "lowercase" , "uppercase" , "inherit" , "initial" etc....
